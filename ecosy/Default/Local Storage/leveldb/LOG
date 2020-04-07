@@ -1,0 +1,6 @@
+2020/03/25-15:56:54.913 22cc Reusing MANIFEST /home/cholid/gmaps-crawler/ecosy/Default/Local Storage/leveldb/MANIFEST-000001
+2020/03/25-15:56:54.913 22cc Recovering log #9
+2020/03/25-15:56:54.913 22cc Reusing old log /home/cholid/gmaps-crawler/ecosy/Default/Local Storage/leveldb/000009.log 
+2020/03/25-17:57:54.916 28e1 Level-0 table #13: started
+2020/03/25-17:57:54.921 28e1 Level-0 table #13: 10563 bytes OK
+2020/03/25-17:57:54.924 28e1 Delete type=0 #9
